@@ -1,0 +1,60 @@
+restaurante
+base de datos
+nombre
+nit
+propietario
+calle
+telefono
+ubicacion(log,lat)
+logo
+fechaderegistro
+fotolugar
+
+servicios
+POST
+PUT
+PATCH
+GET
+DELETE
+
+menus
+base de datos
+nombre
+precio
+descripcion
+fechaderegistro
+fotografia del producto
+
+servicios
+POST
+GET
+UPDATE
+DELETE
+
+ordenes
+base de datos
+idmenu
+idrestaurant
+cantidad
+idcliente
+lugardeenvio(lat,long)
+pagototal
+
+servicios
+POST
+GET
+UPDATE
+DELETE
+
+
+
+facturas
+base de datos
+	no tiene
+
+servicios
+GET
+
+
+
+
